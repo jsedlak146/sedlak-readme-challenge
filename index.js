@@ -30,6 +30,16 @@ const question = [
     name: "description",
   },
   {
+    type: "input",
+    message: "Please describe the installation of your project",
+    name: "install",
+  },
+  {
+    type: "input",
+    message: "Please describe how to use your project",
+    name: "usage",
+  },
+  {
     type: "list",
     message: "What licenses does your project use?",
     name: "license",
@@ -37,18 +47,13 @@ const question = [
   },
   {
     type: "input",
-    message: "What are your dependencies?",
-    name: "dependencies",
+    message: "Who are the contributors?",
+    name: "contributors",
   },
   {
     type: "input",
     message: "What tests have you ran?",
     name: "tests",
-  },
-  {
-    type: "input",
-    message: "How can we use your repo?",
-    name: "repo",
   },
   {
     type: "input",

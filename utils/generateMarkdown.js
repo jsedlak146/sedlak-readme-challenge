@@ -26,23 +26,24 @@ function generateMarkdown(data) {
 
   Description
   ## ${data.description}
-  
+
+  Installation
+  ## ${data.install}
+
+  Usage
+  ## ${data.usage}
+
   Licenses
   ## ${renderLicenseBadgeLinkSection(data.license)}
   
-  Dependencies
-  ## ${data.dependencies}
+  Contributors
+  ## ${data.contributors}
   
   Tests
   ## ${data.tests}
   
-  Repo
-  ## ${data.repo}
-  
   Questions
   ## ${data.questions}
-  
-  Contact
   ## ${data.username}
   ## ${data.email}`;
 }
