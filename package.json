@@ -1,0 +1,23 @@
+{
+  "name": "sedlak-readme-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsedlak146/sedlak-readme-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsedlak146/sedlak-readme-challenge/issues"
+  },
+  "homepage": "https://github.com/jsedlak146/sedlak-readme-challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
