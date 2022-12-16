@@ -4,7 +4,7 @@
 
 For this challenge, we were instructed to create a ReadMe generator using Javascript, inquirer and Node.js.  Below are the links to my GitHub repo and my video demonstration.
 
-Video: https://drive.google.com/file/d/18-7ro3-AIulQoAC2-zs8j6A69pFVDx-e/view?usp=sharing
+Video: https://drive.google.com/file/d/1NCVD_Qab-_m4vZ8bhbU2xsJRX9IkWSmK/view?usp=sharing
 
 Repo: https://github.com/jsedlak146/sedlak-readme-challenge
 
@@ -18,7 +18,7 @@ To use the application, first open the file in your integrated terminal. Type in
 
 ## Video Link
 
-Video: https://drive.google.com/file/d/18-7ro3-AIulQoAC2-zs8j6A69pFVDx-e/view?usp=sharing
+Video: https://drive.google.com/file/d/1NCVD_Qab-_m4vZ8bhbU2xsJRX9IkWSmK/view?usp=sharing
 
 
 ## Credits
