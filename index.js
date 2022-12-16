@@ -1,4 +1,4 @@
-//packages needed
+//packages needed for app to function
 
 const inquirer = require("inquirer");
 const fs = require("fs");
@@ -66,7 +66,7 @@ const question = [
 function writeToFile(fileName, data) {
   return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
-//function to initialize app
+//function to initialize the app
 function init() {
   inquirer.prompt(question).then((response) => {
     console.log("ReadMe creation in progress!");
