@@ -1,7 +1,7 @@
-# My project name is the readme generator
+# readme generator
 
   ## Description
-  This project generates a professional readme using node.js
+  it generates readmes
 
   ## Table of Contents
   [Installation](#Installation) 
@@ -18,21 +18,21 @@
 
 
   ## Installation
-  I created functions and arrays that allow me to build the readme file in node
+  i installed it with javascript functions and node
 
   ## Usage
-  You navigate to the command line in terminal and enter "node index".  After that, simply answer all of the prompts given and a readme will be generated
+  use your terminal, enter node index and answer prompts
 
   ## Licenses
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Contributors
-  Myself, joe sedlak
+  myself
   
   ## Tests
-  I have tested it numerous times for bugs, it is working fine
+  please conact me at
   
   ## Questions
-   If you have any, please feel free to reach out at
-   jssedlak146
+   please contact me at
+   jsedlak146
    jssedlak146@gmail.com

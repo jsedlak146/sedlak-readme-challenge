@@ -18,6 +18,7 @@ To use the application, first open the file in your integrated terminal. Type in
 
 ## Video Link
 
+Video: https://drive.google.com/file/d/18-7ro3-AIulQoAC2-zs8j6A69pFVDx-e/view?usp=sharing
 
 
 ## Credits
