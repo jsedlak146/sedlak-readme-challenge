@@ -1,24 +1,17 @@
-# github
+# sedlak-readme-challenge
 
-  Description
-  ## fkdkfhkjhdasjfhajkhfjkhfkdjfhfskdj
+## Description
 
-  Installation
-  ## jafkjahdskjfjkdshjkkfahsjkhfjks
+## Installation
 
-  Usage
-  ## jdkhfksjahfdjkjksdkfjhaksjfj
+## Usage
 
-  Licenses
-  ## [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  
-  Contributors
-  ## me
-  
-  Tests
-  ## none
-  
-  Questions
-  ## cool
-  ## sedlakjoe
-  ## jssedlak146@gmail
+## Video Link
+
+## Credits
+
+N/a
+
+## Licenses
+
+N/a

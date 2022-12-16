@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// TODO: Create a function that returns a license badge, link, and section based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadgeLinkSection(license) {
   if (license === "Apache") {
@@ -24,28 +24,28 @@ function generateMarkdown(data) {
     console.table(data)
   return `# ${data.projectname}
 
-  Description
-  ## ${data.description}
+  ## Description
+  ${data.description}
 
-  Installation
-  ## ${data.install}
+  ## Installation
+  ${data.install}
 
-  Usage
-  ## ${data.usage}
+  ## Usage
+  ${data.usage}
 
-  Licenses
-  ## ${renderLicenseBadgeLinkSection(data.license)}
+  ## Licenses
+  ${renderLicenseBadgeLinkSection(data.license)}
   
-  Contributors
-  ## ${data.contributors}
+  ## Contributors
+  ${data.contributors}
   
-  Tests
-  ## ${data.tests}
+  ## Tests
+  ${data.tests}
   
-  Questions
-  ## ${data.questions}
-  ## ${data.username}
-  ## ${data.email}`;
+  ## Questions
+   ${data.questions}
+   ${data.username}
+   ${data.email}`;
 }
 
 module.exports = generateMarkdown;
